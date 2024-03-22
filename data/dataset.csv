@@ -1,0 +1,1001 @@
+date,PO,store,article,quantity,value
+28-10-2023,823456,Megalito,wrench,53,1729
+14-06-2023,987654,Megalito,saw,59,1834
+02-05-2023,456789,Megalito,screwdriver,55,79
+27-08-2023,579135,Megalito,saw,77,2072
+14-04-2023,823456,Goldman Inc,chisel,17,1250
+04-06-2023,823456,B&C Harper,tape measure,34,2767
+04-11-2023,135792,Goldman Inc,wrench,32,493
+25-11-2023,823456,Megalito,chisel,34,563
+19-01-2023,823456,Construction Depot,screwdriver,59,2362
+06-11-2023,135792,Construction Depot,screwdriver,31,146
+25-04-2023,456789,Megalito,trowel,86,370
+05-01-2023,654321,Megalito,wrench,71,274
+29-06-2023,654321,B&C Harper,tape measure,22,3304
+27-05-2023,823456,Doit2U,trowel,95,250
+27-10-2023,987654,Doit2U,saw,86,1440
+20-03-2023,579135,Materials4u,chisel,50,3881
+07-06-2023,823456,Construction Depot,chisel,12,2818
+02-02-2023,456789,Goldman Inc,saw,46,2665
+04-04-2023,135792,B&C Harper,screwdriver,64,1473
+22-05-2023,246813,B&C Harper,saw,41,228
+06-06-2023,579135,Construction Depot,saw,45,2856
+11-12-2023,579135,Materials4u,screwdriver,21,3833
+17-06-2023,246813,Construction Depot,trowel,21,4084
+23-02-2023,246813,B&C Harper,saw,90,521
+24-04-2023,654321,Megalito,trowel,78,3872
+18-12-2023,823456,Construction Depot,chisel,86,3159
+19-02-2023,579135,Construction Depot,trowel,77,1406
+19-01-2023,135792,B&C Harper,saw,33,1847
+18-08-2023,823456,Construction Depot,chisel,53,1942
+26-11-2023,135792,Megalito,hammer,85,1657
+10-10-2023,246813,Construction Depot,chisel,15,1461
+14-05-2023,823456,Materials4u,wrench,5,585
+21-08-2023,987654,Doit2U,trowel,82,2454
+10-10-2023,987654,Goldman Inc,saw,29,3166
+30-04-2023,246813,Megalito,trowel,86,931
+22-09-2023,456789,Doit2U,screwdriver,31,3573
+22-04-2023,823456,Goldman Inc,screwdriver,90,2187
+13-07-2023,456789,Doit2U,chisel,60,967
+10-11-2023,135792,Doit2U,screwdriver,96,53
+08-06-2023,823456,Megalito,screwdriver,22,2373
+06-03-2023,456789,Doit2U,chisel,55,3354
+07-03-2023,135792,Construction Depot,saw,92,3544
+18-06-2023,135792,Construction Depot,chisel,67,898
+22-06-2023,456789,Doit2U,chisel,62,2102
+22-11-2023,135792,Goldman Inc,screwdriver,10,1688
+10-02-2023,456789,Materials4u,screwdriver,90,2167
+08-01-2023,823456,B&C Harper,trowel,99,1925
+14-01-2023,987654,Goldman Inc,drill,49,3057
+09-05-2023,246813,Construction Depot,hammer,96,1283
+14-07-2023,987654,Construction Depot,saw,28,773
+07-12-2023,654321,Doit2U,saw,6,1533
+27-06-2023,135792,Construction Depot,screwdriver,67,828
+10-01-2023,246813,Construction Depot,chisel,98,2306
+20-08-2023,456789,B&C Harper,saw,23,3234
+25-10-2023,987654,Construction Depot,screwdriver,21,1023
+13-02-2023,987654,Doit2U,screwdriver,13,1702
+16-07-2023,246813,Materials4u,saw,12,2070
+18-11-2023,823456,B&C Harper,pliers,16,3976
+18-08-2023,246813,B&C Harper,chisel,22,1565
+30-05-2023,579135,Construction Depot,saw,97,3366
+27-03-2023,135792,Construction Depot,saw,72,2579
+14-01-2023,579135,Megalito,screwdriver,93,138
+18-07-2023,654321,Materials4u,saw,88,3578
+23-11-2023,456789,B&C Harper,screwdriver,66,568
+08-12-2023,246813,Doit2U,hammer,57,1494
+12-07-2023,246813,Doit2U,drill,47,3491
+23-01-2023,135792,Megalito,screwdriver,37,3624
+02-03-2023,246813,B&C Harper,wrench,45,2848
+09-07-2023,579135,Doit2U,tape measure,80,3435
+12-07-2023,987654,Megalito,tape measure,1,3333
+05-05-2023,987654,Doit2U,level,31,714
+08-12-2023,654321,Megalito,wrench,91,1606
+21-01-2023,654321,Megalito,saw,7,2074
+14-07-2023,579135,Goldman Inc,saw,17,993
+23-02-2023,654321,Doit2U,screwdriver,76,1926
+05-04-2023,823456,Goldman Inc,saw,56,1442
+30-06-2023,654321,Materials4u,level,40,72
+06-04-2023,135792,Materials4u,chisel,99,1376
+04-04-2023,579135,Goldman Inc,screwdriver,38,489
+08-11-2023,823456,Construction Depot,hammer,56,1374
+19-11-2023,579135,Materials4u,drill,16,987
+23-06-2023,135792,Megalito,trowel,77,44
+01-05-2023,135792,Materials4u,hammer,87,1356
+09-12-2023,823456,Goldman Inc,hammer,85,3624
+15-07-2023,246813,B&C Harper,pliers,83,2737
+10-10-2023,135792,Materials4u,chisel,89,1992
+06-01-2023,654321,B&C Harper,saw,84,131
+24-09-2023,246813,B&C Harper,screwdriver,13,3973
+21-10-2023,987654,B&C Harper,chisel,56,2426
+30-09-2023,456789,Doit2U,tape measure,3,1664
+17-06-2023,579135,Megalito,saw,24,3693
+22-05-2023,823456,Goldman Inc,screwdriver,52,401
+04-06-2023,135792,B&C Harper,hammer,93,3821
+07-04-2023,246813,B&C Harper,chisel,74,1878
+02-10-2023,823456,Goldman Inc,chisel,95,1876
+29-05-2023,654321,Megalito,level,5,1587
+04-01-2023,135792,Megalito,screwdriver,28,1406
+12-02-2023,654321,Megalito,saw,17,2675
+08-05-2023,987654,B&C Harper,chisel,29,3547
+21-01-2023,135792,Goldman Inc,trowel,51,2455
+14-07-2023,246813,Materials4u,chisel,96,2535
+19-06-2023,579135,Goldman Inc,screwdriver,34,4082
+01-05-2023,579135,Doit2U,chisel,84,3796
+08-12-2023,823456,B&C Harper,hammer,40,1152
+23-10-2023,987654,Goldman Inc,chisel,87,3917
+14-12-2023,456789,Doit2U,screwdriver,48,4049
+05-03-2023,987654,B&C Harper,saw,51,2962
+23-11-2023,135792,Construction Depot,chisel,64,3212
+13-07-2023,456789,Materials4u,saw,43,1545
+21-03-2023,456789,Megalito,screwdriver,16,48
+27-03-2023,823456,Megalito,hammer,58,1423
+12-05-2023,823456,Materials4u,chisel,26,3021
+02-11-2023,823456,Doit2U,screwdriver,71,3956
+17-12-2023,246813,B&C Harper,drill,80,2069
+07-08-2023,246813,Materials4u,trowel,64,540
+04-07-2023,246813,Construction Depot,trowel,18,959
+30-09-2023,823456,Goldman Inc,saw,82,2667
+11-10-2023,135792,Materials4u,chisel,65,3549
+30-01-2023,823456,Materials4u,screwdriver,8,2070
+04-02-2023,654321,Construction Depot,wrench,76,991
+04-12-2023,579135,Doit2U,wrench,50,3985
+27-06-2023,987654,B&C Harper,hammer,74,1589
+01-11-2023,456789,B&C Harper,wrench,81,1992
+22-08-2023,135792,Doit2U,chisel,10,870
+11-08-2023,823456,Doit2U,chisel,91,1291
+01-05-2023,579135,B&C Harper,saw,82,2761
+18-12-2023,654321,Construction Depot,pliers,7,2975
+22-02-2023,246813,Construction Depot,chisel,88,2746
+16-08-2023,246813,Megalito,screwdriver,86,1900
+01-04-2023,823456,Doit2U,pliers,32,2970
+28-05-2023,654321,Megalito,saw,90,1260
+06-05-2023,579135,Construction Depot,chisel,7,1492
+23-07-2023,987654,B&C Harper,screwdriver,57,3053
+20-01-2023,823456,Megalito,screwdriver,72,3380
+07-01-2023,987654,Construction Depot,chisel,12,2252
+17-06-2023,823456,Megalito,chisel,6,3831
+19-10-2023,654321,B&C Harper,trowel,18,647
+11-07-2023,456789,B&C Harper,chisel,34,1218
+31-01-2023,456789,Doit2U,chisel,55,3132
+13-12-2023,823456,Materials4u,tape measure,49,2684
+13-07-2023,456789,Goldman Inc,saw,78,1659
+06-05-2023,987654,Doit2U,hammer,4,3943
+07-08-2023,654321,Construction Depot,trowel,6,2496
+19-01-2023,456789,B&C Harper,screwdriver,30,4088
+12-11-2023,987654,B&C Harper,saw,23,415
+05-08-2023,246813,Construction Depot,drill,28,30
+06-02-2023,456789,Construction Depot,screwdriver,39,1476
+15-12-2023,246813,Doit2U,chisel,34,2819
+25-06-2023,135792,Megalito,chisel,3,2437
+04-03-2023,246813,Doit2U,level,56,3551
+02-05-2023,579135,Megalito,level,54,1457
+28-07-2023,135792,Doit2U,chisel,29,2575
+24-04-2023,987654,Megalito,hammer,72,342
+08-10-2023,823456,Goldman Inc,drill,85,2836
+09-01-2023,823456,Construction Depot,chisel,31,1137
+14-05-2023,987654,Megalito,chisel,8,2389
+28-09-2023,987654,Materials4u,drill,67,2885
+26-10-2023,135792,Doit2U,screwdriver,85,170
+08-10-2023,246813,Goldman Inc,wrench,90,3265
+21-01-2023,246813,B&C Harper,screwdriver,38,2196
+06-08-2023,654321,B&C Harper,screwdriver,86,107
+09-02-2023,987654,Doit2U,chisel,53,1594
+11-09-2023,579135,Doit2U,chisel,61,3376
+11-08-2023,135792,B&C Harper,wrench,93,573
+22-06-2023,135792,Construction Depot,saw,70,491
+12-11-2023,246813,Goldman Inc,screwdriver,14,3250
+16-03-2023,654321,B&C Harper,saw,98,1576
+16-12-2023,246813,Materials4u,trowel,70,1288
+30-03-2023,246813,Doit2U,screwdriver,67,3406
+16-12-2023,823456,Materials4u,screwdriver,81,1517
+13-02-2023,579135,Construction Depot,saw,54,2299
+23-01-2023,654321,Construction Depot,level,60,2531
+28-04-2023,456789,Materials4u,trowel,80,1502
+19-11-2023,823456,Goldman Inc,saw,69,855
+12-10-2023,987654,Megalito,tape measure,21,3442
+15-03-2023,987654,Doit2U,wrench,36,165
+30-01-2023,987654,Megalito,screwdriver,4,1475
+08-02-2023,987654,Goldman Inc,trowel,74,238
+17-05-2023,987654,Construction Depot,screwdriver,40,3306
+31-03-2023,246813,Materials4u,drill,36,3549
+24-06-2023,654321,Megalito,chisel,55,1521
+08-01-2023,654321,B&C Harper,hammer,17,50
+21-02-2023,579135,B&C Harper,saw,36,3245
+18-11-2023,135792,Megalito,trowel,2,4067
+02-04-2023,823456,B&C Harper,level,80,3875
+25-07-2023,987654,Construction Depot,chisel,27,2602
+20-11-2023,654321,Materials4u,chisel,93,472
+10-04-2023,135792,Materials4u,hammer,36,1894
+23-11-2023,823456,Goldman Inc,screwdriver,80,2342
+09-06-2023,823456,Materials4u,wrench,30,2579
+14-05-2023,579135,Materials4u,saw,16,446
+06-09-2023,823456,B&C Harper,screwdriver,44,3067
+09-06-2023,579135,Doit2U,screwdriver,79,809
+15-09-2023,654321,Materials4u,chisel,53,383
+20-03-2023,135792,Megalito,trowel,60,930
+15-10-2023,456789,Doit2U,screwdriver,69,3119
+24-02-2023,987654,Construction Depot,screwdriver,94,1564
+13-12-2023,246813,Goldman Inc,trowel,54,2697
+24-08-2023,823456,Doit2U,screwdriver,6,857
+02-03-2023,456789,Construction Depot,chisel,44,3551
+15-09-2023,246813,Doit2U,wrench,81,2095
+06-11-2023,654321,Materials4u,screwdriver,65,2147
+07-09-2023,456789,Megalito,screwdriver,33,2627
+12-08-2023,654321,B&C Harper,tape measure,82,1625
+25-09-2023,246813,B&C Harper,screwdriver,85,3709
+07-03-2023,654321,Megalito,trowel,7,1861
+01-04-2023,246813,Doit2U,pliers,20,3729
+06-06-2023,135792,Materials4u,chisel,64,1776
+08-01-2023,987654,Goldman Inc,wrench,87,1518
+07-02-2023,456789,Doit2U,saw,37,3210
+14-04-2023,987654,B&C Harper,level,8,2685
+22-10-2023,987654,Doit2U,trowel,92,3170
+18-08-2023,135792,Construction Depot,saw,100,1361
+25-01-2023,135792,Doit2U,level,76,2273
+05-07-2023,654321,Construction Depot,wrench,62,2806
+05-06-2023,456789,B&C Harper,hammer,54,1545
+29-04-2023,823456,Goldman Inc,screwdriver,43,2555
+23-08-2023,456789,Goldman Inc,level,60,1157
+03-12-2023,246813,Construction Depot,trowel,89,3796
+26-04-2023,246813,B&C Harper,chisel,63,1560
+20-06-2023,246813,B&C Harper,screwdriver,2,3587
+14-01-2023,654321,Construction Depot,saw,32,1875
+12-12-2023,654321,Construction Depot,saw,69,2474
+03-05-2023,654321,B&C Harper,saw,92,1937
+02-01-2023,823456,Megalito,screwdriver,73,779
+30-06-2023,246813,Doit2U,drill,95,330
+23-10-2023,135792,Materials4u,level,76,2903
+03-12-2023,579135,Goldman Inc,chisel,42,4097
+22-04-2023,456789,Doit2U,screwdriver,16,3263
+26-02-2023,987654,Goldman Inc,chisel,75,2131
+27-01-2023,246813,Goldman Inc,chisel,90,1814
+14-11-2023,654321,Megalito,wrench,57,2706
+27-10-2023,456789,Doit2U,chisel,9,3642
+25-03-2023,246813,Materials4u,hammer,37,897
+06-09-2023,987654,Materials4u,saw,39,1650
+27-08-2023,987654,Construction Depot,trowel,50,3033
+24-07-2023,987654,Materials4u,screwdriver,96,1097
+08-07-2023,579135,B&C Harper,trowel,82,481
+18-02-2023,987654,Doit2U,tape measure,96,2496
+19-04-2023,135792,Construction Depot,wrench,34,4084
+31-05-2023,654321,Materials4u,drill,98,1088
+06-05-2023,579135,Construction Depot,trowel,66,2424
+20-11-2023,823456,B&C Harper,drill,23,2501
+25-06-2023,579135,Doit2U,saw,93,2051
+22-08-2023,654321,Materials4u,pliers,80,285
+25-12-2023,654321,Megalito,screwdriver,35,3269
+14-12-2023,579135,B&C Harper,screwdriver,3,852
+16-12-2023,456789,Materials4u,screwdriver,76,3102
+09-12-2023,579135,B&C Harper,hammer,61,1071
+28-02-2023,823456,B&C Harper,pliers,70,1958
+04-07-2023,246813,Megalito,screwdriver,19,2148
+24-03-2023,987654,Megalito,screwdriver,23,1520
+08-05-2023,987654,Megalito,screwdriver,63,1152
+07-10-2023,135792,B&C Harper,hammer,45,1278
+14-04-2023,987654,Doit2U,wrench,5,3899
+25-06-2023,456789,Doit2U,trowel,31,981
+25-02-2023,246813,Doit2U,drill,34,1572
+23-08-2023,987654,Megalito,saw,70,380
+14-12-2023,456789,Goldman Inc,pliers,12,997
+04-01-2023,987654,Construction Depot,hammer,82,842
+18-11-2023,654321,Construction Depot,saw,89,2743
+21-10-2023,987654,Materials4u,drill,7,3069
+22-08-2023,135792,Goldman Inc,hammer,41,3795
+04-08-2023,823456,Megalito,trowel,67,2945
+02-04-2023,579135,Megalito,chisel,38,1179
+02-04-2023,823456,B&C Harper,screwdriver,100,2420
+06-02-2023,246813,Construction Depot,trowel,52,87
+19-02-2023,823456,Goldman Inc,screwdriver,80,856
+21-01-2023,456789,Megalito,chisel,25,2946
+10-12-2023,987654,Goldman Inc,screwdriver,4,661
+10-03-2023,246813,Doit2U,chisel,23,2415
+28-03-2023,135792,Megalito,wrench,78,566
+15-02-2023,246813,B&C Harper,saw,9,755
+17-04-2023,135792,B&C Harper,chisel,96,56
+09-07-2023,987654,Construction Depot,wrench,53,4044
+18-01-2023,654321,B&C Harper,wrench,14,1351
+17-06-2023,456789,Megalito,trowel,75,1432
+12-11-2023,579135,Doit2U,drill,67,1893
+28-02-2023,456789,Construction Depot,chisel,37,3859
+28-06-2023,654321,Megalito,trowel,50,1309
+17-12-2023,654321,Materials4u,level,25,1550
+16-07-2023,654321,Doit2U,wrench,48,974
+15-01-2023,823456,Materials4u,trowel,77,2648
+17-01-2023,456789,B&C Harper,screwdriver,98,2550
+24-03-2023,579135,Construction Depot,pliers,19,385
+01-05-2023,654321,Megalito,wrench,62,1159
+04-12-2023,135792,B&C Harper,trowel,21,1008
+08-10-2023,246813,Megalito,saw,85,311
+21-12-2023,456789,Megalito,chisel,25,480
+18-08-2023,987654,Construction Depot,wrench,23,1813
+30-04-2023,987654,Goldman Inc,tape measure,95,393
+21-05-2023,246813,Materials4u,screwdriver,45,418
+08-01-2023,135792,Construction Depot,trowel,35,1319
+19-06-2023,823456,B&C Harper,hammer,19,227
+22-06-2023,654321,B&C Harper,screwdriver,93,1621
+05-12-2023,246813,Megalito,saw,31,1071
+26-09-2023,135792,Materials4u,screwdriver,100,2026
+02-07-2023,135792,Construction Depot,chisel,60,1677
+01-10-2023,579135,Doit2U,saw,4,1524
+25-11-2023,823456,Construction Depot,wrench,79,3799
+26-02-2023,579135,Megalito,saw,16,4057
+27-01-2023,654321,Construction Depot,trowel,97,2518
+17-04-2023,823456,Goldman Inc,chisel,97,1834
+18-09-2023,823456,Doit2U,wrench,37,1676
+29-04-2023,987654,Goldman Inc,wrench,63,807
+18-10-2023,987654,Construction Depot,trowel,89,825
+15-08-2023,654321,B&C Harper,chisel,85,587
+09-08-2023,135792,Megalito,tape measure,10,286
+13-10-2023,135792,Goldman Inc,chisel,49,236
+07-12-2023,456789,Goldman Inc,tape measure,36,2793
+25-06-2023,246813,Goldman Inc,chisel,50,840
+04-04-2023,987654,B&C Harper,trowel,56,708
+01-02-2023,579135,Doit2U,wrench,12,3282
+14-06-2023,823456,Construction Depot,trowel,76,3101
+15-05-2023,987654,Materials4u,saw,15,1461
+15-08-2023,654321,Megalito,chisel,90,3801
+13-04-2023,987654,Construction Depot,chisel,3,2454
+26-01-2023,987654,Materials4u,screwdriver,67,7
+16-06-2023,823456,Goldman Inc,wrench,57,1782
+08-04-2023,823456,Goldman Inc,saw,38,1675
+03-06-2023,579135,B&C Harper,hammer,33,2935
+25-11-2023,246813,Megalito,saw,88,1313
+15-08-2023,654321,B&C Harper,chisel,26,2484
+27-01-2023,135792,Goldman Inc,wrench,65,2035
+09-01-2023,456789,Doit2U,screwdriver,13,3721
+12-08-2023,823456,Doit2U,level,42,1324
+24-09-2023,987654,Construction Depot,chisel,58,3577
+19-07-2023,135792,Materials4u,screwdriver,21,2539
+03-10-2023,135792,Megalito,saw,7,3540
+04-02-2023,456789,Goldman Inc,level,57,322
+13-01-2023,135792,B&C Harper,screwdriver,26,2322
+20-05-2023,654321,B&C Harper,trowel,43,3065
+24-02-2023,987654,Materials4u,screwdriver,65,1985
+12-08-2023,579135,Construction Depot,drill,97,360
+03-02-2023,456789,Construction Depot,pliers,33,3625
+10-05-2023,456789,Materials4u,saw,79,1767
+23-02-2023,823456,Construction Depot,trowel,36,2147
+28-10-2023,135792,Materials4u,pliers,35,262
+23-07-2023,654321,Materials4u,pliers,35,28
+07-06-2023,135792,Construction Depot,screwdriver,86,660
+07-10-2023,456789,Materials4u,screwdriver,60,930
+02-12-2023,823456,Goldman Inc,screwdriver,100,1820
+15-10-2023,246813,Construction Depot,wrench,21,3250
+02-08-2023,654321,Goldman Inc,screwdriver,24,508
+05-05-2023,246813,Megalito,chisel,18,622
+09-10-2023,987654,Megalito,saw,80,2211
+23-06-2023,456789,Doit2U,trowel,56,1288
+23-05-2023,135792,Construction Depot,chisel,96,826
+14-04-2023,135792,Doit2U,chisel,71,2740
+27-06-2023,987654,Doit2U,wrench,68,95
+19-07-2023,456789,Goldman Inc,tape measure,59,3884
+10-03-2023,135792,Doit2U,screwdriver,27,1819
+08-03-2023,987654,Megalito,saw,27,1249
+24-02-2023,987654,B&C Harper,saw,6,2549
+30-04-2023,823456,B&C Harper,pliers,24,803
+31-10-2023,456789,Goldman Inc,screwdriver,4,2859
+30-07-2023,654321,Construction Depot,screwdriver,52,3482
+29-04-2023,135792,Megalito,drill,95,1847
+15-05-2023,579135,Megalito,wrench,45,1483
+20-07-2023,456789,Construction Depot,screwdriver,51,4028
+08-12-2023,579135,Doit2U,screwdriver,11,3109
+25-10-2023,579135,Megalito,chisel,49,1076
+03-12-2023,823456,Materials4u,screwdriver,98,1117
+08-09-2023,987654,Megalito,screwdriver,54,975
+24-04-2023,135792,Megalito,hammer,32,2619
+15-12-2023,456789,Megalito,chisel,63,1343
+14-03-2023,823456,B&C Harper,tape measure,16,3466
+30-08-2023,654321,Materials4u,chisel,48,2797
+09-08-2023,654321,Goldman Inc,wrench,48,1533
+18-10-2023,246813,B&C Harper,chisel,82,1044
+04-02-2023,654321,Doit2U,saw,85,308
+27-03-2023,246813,B&C Harper,level,81,3219
+02-05-2023,579135,Materials4u,wrench,66,3280
+05-11-2023,654321,Doit2U,screwdriver,89,339
+29-10-2023,579135,Construction Depot,saw,83,3592
+12-06-2023,579135,Materials4u,chisel,50,2577
+19-04-2023,654321,Megalito,trowel,54,3745
+11-02-2023,987654,Materials4u,screwdriver,10,677
+18-01-2023,654321,B&C Harper,screwdriver,11,2328
+06-04-2023,823456,Construction Depot,hammer,10,1722
+26-07-2023,579135,Doit2U,screwdriver,96,4003
+18-06-2023,987654,Construction Depot,screwdriver,31,1913
+19-02-2023,823456,Materials4u,chisel,43,1304
+15-01-2023,246813,Megalito,screwdriver,2,1377
+11-03-2023,987654,Goldman Inc,drill,84,3911
+15-11-2023,246813,Doit2U,trowel,97,2929
+28-11-2023,987654,B&C Harper,level,72,2129
+24-06-2023,654321,Construction Depot,wrench,20,3523
+02-10-2023,823456,Doit2U,trowel,78,3871
+01-04-2023,456789,Goldman Inc,drill,94,1511
+25-11-2023,823456,Megalito,pliers,79,2024
+04-09-2023,579135,Construction Depot,trowel,64,3401
+03-02-2023,456789,Construction Depot,hammer,28,38
+14-08-2023,579135,B&C Harper,screwdriver,3,3754
+16-06-2023,579135,Goldman Inc,screwdriver,97,1677
+08-09-2023,456789,Materials4u,trowel,48,3288
+26-04-2023,654321,Goldman Inc,hammer,30,3636
+22-12-2023,246813,Construction Depot,trowel,30,836
+19-12-2023,823456,Megalito,pliers,8,1166
+18-09-2023,987654,Construction Depot,trowel,26,3744
+10-10-2023,987654,Goldman Inc,chisel,83,3657
+06-06-2023,823456,Megalito,hammer,52,181
+04-12-2023,987654,Megalito,tape measure,48,3645
+23-10-2023,987654,Materials4u,screwdriver,27,722
+12-05-2023,654321,Doit2U,screwdriver,20,488
+15-08-2023,456789,Construction Depot,trowel,87,2842
+06-03-2023,246813,B&C Harper,pliers,8,3050
+30-06-2023,823456,Doit2U,wrench,43,469
+21-06-2023,823456,B&C Harper,screwdriver,71,1791
+13-08-2023,246813,Doit2U,screwdriver,24,3316
+18-02-2023,823456,Megalito,chisel,29,1946
+19-04-2023,135792,Goldman Inc,chisel,5,1196
+12-05-2023,987654,B&C Harper,trowel,4,3630
+08-10-2023,654321,Goldman Inc,chisel,79,3585
+25-12-2023,579135,Megalito,screwdriver,6,1803
+01-10-2023,654321,Doit2U,saw,32,2462
+31-05-2023,654321,Megalito,saw,69,1188
+07-03-2023,823456,Goldman Inc,chisel,46,750
+15-11-2023,987654,Materials4u,saw,100,187
+12-06-2023,456789,B&C Harper,chisel,91,1563
+16-12-2023,579135,Doit2U,chisel,32,3912
+06-05-2023,579135,Construction Depot,screwdriver,3,1366
+27-11-2023,654321,Doit2U,trowel,13,604
+17-03-2023,987654,Megalito,screwdriver,62,1686
+08-07-2023,135792,Doit2U,chisel,49,565
+13-06-2023,579135,Construction Depot,trowel,15,1552
+12-08-2023,456789,Megalito,chisel,48,3299
+07-05-2023,246813,Megalito,chisel,35,2306
+02-05-2023,246813,B&C Harper,screwdriver,24,759
+01-02-2023,654321,Materials4u,wrench,30,875
+28-05-2023,823456,Megalito,saw,38,2087
+28-02-2023,246813,B&C Harper,chisel,48,1764
+28-03-2023,246813,Doit2U,screwdriver,39,3829
+12-09-2023,987654,B&C Harper,level,13,3432
+19-08-2023,135792,Doit2U,screwdriver,9,414
+24-08-2023,135792,Megalito,trowel,97,483
+09-04-2023,823456,Construction Depot,chisel,31,3389
+16-12-2023,456789,Doit2U,hammer,86,1658
+28-03-2023,823456,Materials4u,pliers,83,1638
+28-07-2023,246813,Megalito,chisel,13,1180
+28-01-2023,823456,Goldman Inc,screwdriver,69,1467
+16-08-2023,246813,Construction Depot,pliers,88,3203
+27-11-2023,987654,Construction Depot,wrench,11,1665
+30-05-2023,135792,Goldman Inc,saw,93,3699
+09-09-2023,579135,Goldman Inc,chisel,64,732
+08-09-2023,579135,Doit2U,chisel,36,1231
+01-09-2023,987654,B&C Harper,screwdriver,33,2099
+14-11-2023,654321,Megalito,saw,74,1812
+20-09-2023,246813,B&C Harper,screwdriver,46,925
+05-05-2023,135792,Goldman Inc,chisel,62,3460
+01-09-2023,135792,Goldman Inc,screwdriver,11,685
+14-07-2023,456789,Megalito,screwdriver,67,2261
+02-01-2023,823456,Construction Depot,trowel,88,3075
+07-01-2023,987654,Megalito,level,49,639
+14-10-2023,987654,Megalito,screwdriver,33,61
+01-08-2023,135792,Megalito,chisel,75,985
+20-02-2023,456789,B&C Harper,drill,58,733
+10-08-2023,987654,Doit2U,screwdriver,64,2817
+24-02-2023,456789,Doit2U,screwdriver,42,3859
+20-12-2023,579135,Materials4u,chisel,86,1427
+19-07-2023,654321,Doit2U,screwdriver,55,2384
+29-01-2023,823456,Materials4u,chisel,58,3386
+05-08-2023,579135,Megalito,saw,7,491
+13-11-2023,654321,Goldman Inc,screwdriver,45,1247
+01-02-2023,654321,B&C Harper,chisel,26,517
+30-07-2023,579135,Construction Depot,saw,67,512
+13-09-2023,823456,Construction Depot,screwdriver,37,3080
+25-11-2023,654321,Materials4u,saw,90,4095
+08-10-2023,823456,B&C Harper,saw,11,1430
+26-11-2023,654321,Goldman Inc,trowel,57,1093
+06-01-2023,579135,Doit2U,drill,12,3025
+14-10-2023,246813,Materials4u,wrench,50,1404
+14-11-2023,246813,Construction Depot,screwdriver,53,1574
+06-09-2023,654321,Doit2U,wrench,53,2309
+26-06-2023,456789,Megalito,screwdriver,64,1534
+11-03-2023,135792,Megalito,wrench,57,3795
+15-04-2023,135792,Doit2U,saw,94,3260
+10-11-2023,579135,Goldman Inc,trowel,58,1538
+25-11-2023,579135,Goldman Inc,saw,11,982
+08-04-2023,823456,Construction Depot,chisel,87,1871
+26-07-2023,246813,Megalito,screwdriver,11,947
+04-12-2023,135792,B&C Harper,chisel,6,2712
+28-03-2023,246813,Megalito,drill,69,1514
+07-07-2023,987654,Goldman Inc,chisel,44,1678
+17-04-2023,987654,Materials4u,chisel,64,123
+05-04-2023,246813,Construction Depot,chisel,22,240
+19-03-2023,456789,B&C Harper,screwdriver,33,673
+27-07-2023,579135,Construction Depot,trowel,37,3197
+28-01-2023,579135,Megalito,saw,55,2242
+19-07-2023,135792,Megalito,pliers,29,3221
+08-03-2023,654321,Construction Depot,chisel,85,2933
+05-12-2023,135792,Doit2U,chisel,3,1217
+31-07-2023,456789,Materials4u,screwdriver,32,1047
+11-08-2023,456789,B&C Harper,pliers,3,1673
+23-02-2023,987654,Doit2U,chisel,49,2494
+25-05-2023,579135,B&C Harper,screwdriver,23,682
+25-08-2023,579135,Construction Depot,chisel,45,1012
+04-11-2023,823456,Doit2U,wrench,3,1289
+04-01-2023,456789,Materials4u,hammer,8,3800
+05-12-2023,135792,Megalito,screwdriver,30,2883
+19-03-2023,654321,Materials4u,trowel,37,239
+25-10-2023,987654,Doit2U,wrench,1,2380
+15-10-2023,987654,B&C Harper,chisel,82,1312
+09-07-2023,579135,Goldman Inc,saw,87,3250
+05-05-2023,823456,Construction Depot,chisel,53,1101
+31-07-2023,135792,Megalito,chisel,21,622
+02-12-2023,579135,Materials4u,screwdriver,95,320
+18-07-2023,456789,Construction Depot,chisel,18,3596
+05-05-2023,654321,Goldman Inc,screwdriver,90,2192
+14-12-2023,823456,Doit2U,screwdriver,41,1902
+17-05-2023,579135,Megalito,chisel,36,1922
+29-11-2023,456789,Doit2U,saw,98,1700
+28-07-2023,246813,Goldman Inc,level,97,1279
+20-07-2023,135792,Construction Depot,chisel,11,2594
+13-04-2023,246813,Megalito,saw,8,1173
+19-07-2023,135792,Doit2U,screwdriver,81,1128
+12-07-2023,456789,Goldman Inc,chisel,48,1041
+03-04-2023,456789,Megalito,trowel,91,2748
+02-08-2023,456789,B&C Harper,hammer,90,4026
+27-03-2023,135792,Megalito,saw,60,3555
+07-10-2023,246813,Goldman Inc,trowel,40,145
+02-09-2023,135792,Construction Depot,chisel,66,3087
+06-09-2023,823456,Materials4u,wrench,95,3523
+12-05-2023,135792,Materials4u,screwdriver,17,3219
+07-08-2023,654321,Construction Depot,chisel,58,1114
+17-05-2023,246813,Megalito,screwdriver,99,3143
+31-01-2023,135792,Goldman Inc,chisel,82,695
+15-03-2023,246813,Construction Depot,chisel,61,3768
+28-09-2023,823456,Doit2U,hammer,12,4006
+22-02-2023,987654,Megalito,screwdriver,87,2782
+15-03-2023,135792,Goldman Inc,saw,35,1541
+16-05-2023,135792,Construction Depot,level,89,2087
+09-03-2023,456789,Doit2U,saw,98,3358
+26-05-2023,456789,B&C Harper,drill,61,750
+02-03-2023,135792,Megalito,screwdriver,88,2920
+25-05-2023,246813,B&C Harper,screwdriver,1,4082
+23-11-2023,456789,Construction Depot,pliers,58,225
+12-01-2023,456789,Construction Depot,trowel,10,145
+03-12-2023,987654,Doit2U,trowel,41,2840
+10-07-2023,456789,Megalito,tape measure,12,3521
+17-09-2023,246813,Megalito,wrench,56,3756
+22-07-2023,135792,Materials4u,saw,73,848
+21-02-2023,135792,B&C Harper,saw,30,750
+24-12-2023,823456,Goldman Inc,chisel,14,2282
+07-07-2023,579135,B&C Harper,saw,32,837
+25-11-2023,987654,Doit2U,screwdriver,50,2034
+27-05-2023,246813,Materials4u,saw,48,571
+12-12-2023,654321,Doit2U,pliers,24,511
+22-11-2023,579135,Megalito,screwdriver,25,3485
+17-09-2023,987654,Materials4u,wrench,24,3225
+04-03-2023,579135,Construction Depot,trowel,43,3463
+24-01-2023,654321,Construction Depot,hammer,94,1795
+30-04-2023,579135,Goldman Inc,level,8,3968
+24-06-2023,823456,Doit2U,screwdriver,74,3812
+14-07-2023,135792,B&C Harper,screwdriver,29,3894
+25-02-2023,823456,Construction Depot,screwdriver,37,58
+14-10-2023,823456,Goldman Inc,saw,56,3089
+13-08-2023,987654,Construction Depot,screwdriver,20,361
+28-08-2023,823456,Construction Depot,chisel,29,3205
+28-02-2023,654321,Doit2U,trowel,9,1897
+11-11-2023,987654,B&C Harper,saw,46,3160
+11-02-2023,135792,Construction Depot,chisel,34,2144
+01-09-2023,456789,Construction Depot,drill,59,3464
+26-12-2023,987654,Doit2U,hammer,79,3608
+09-02-2023,246813,B&C Harper,hammer,64,1363
+11-10-2023,654321,Construction Depot,drill,24,535
+11-12-2023,456789,Goldman Inc,saw,42,2050
+25-06-2023,987654,Materials4u,screwdriver,72,2660
+25-11-2023,654321,Construction Depot,chisel,93,1137
+03-09-2023,456789,Materials4u,chisel,15,122
+07-02-2023,135792,B&C Harper,drill,36,1120
+16-03-2023,823456,Construction Depot,trowel,10,2767
+03-05-2023,823456,Goldman Inc,trowel,29,1012
+05-09-2023,654321,Megalito,pliers,73,3786
+12-08-2023,456789,Doit2U,tape measure,28,2322
+16-06-2023,823456,Construction Depot,screwdriver,20,2055
+15-01-2023,654321,Materials4u,trowel,92,2553
+04-12-2023,456789,Goldman Inc,wrench,87,1841
+30-11-2023,135792,Doit2U,chisel,28,2019
+26-03-2023,579135,Construction Depot,chisel,26,2424
+19-10-2023,987654,Construction Depot,chisel,57,2614
+22-08-2023,246813,Megalito,saw,24,1981
+02-12-2023,823456,B&C Harper,screwdriver,9,3915
+31-01-2023,654321,Goldman Inc,trowel,19,102
+26-04-2023,135792,Doit2U,trowel,16,1325
+19-02-2023,135792,Materials4u,pliers,33,1639
+13-01-2023,456789,Goldman Inc,saw,24,875
+26-03-2023,579135,Goldman Inc,screwdriver,20,3331
+05-05-2023,987654,Megalito,chisel,49,2625
+05-02-2023,654321,Megalito,trowel,64,2141
+21-12-2023,579135,Construction Depot,screwdriver,23,2723
+19-04-2023,987654,Goldman Inc,drill,2,41
+05-09-2023,579135,Goldman Inc,tape measure,67,254
+12-05-2023,987654,Construction Depot,screwdriver,57,770
+21-08-2023,987654,Megalito,screwdriver,78,3073
+01-08-2023,579135,B&C Harper,saw,90,2648
+27-12-2023,246813,Doit2U,pliers,36,3964
+17-01-2023,823456,B&C Harper,chisel,99,403
+28-07-2023,823456,Construction Depot,chisel,68,3050
+06-11-2023,579135,Goldman Inc,trowel,12,1812
+23-06-2023,135792,Doit2U,chisel,77,38
+20-01-2023,579135,Doit2U,screwdriver,58,1768
+22-11-2023,246813,Megalito,level,95,2336
+25-03-2023,456789,B&C Harper,trowel,68,171
+17-06-2023,823456,Materials4u,wrench,17,3983
+14-04-2023,823456,Materials4u,chisel,77,206
+23-04-2023,987654,Materials4u,saw,90,640
+01-08-2023,135792,Materials4u,hammer,71,673
+01-11-2023,654321,B&C Harper,screwdriver,79,3228
+15-09-2023,246813,B&C Harper,chisel,95,3951
+17-07-2023,654321,Doit2U,chisel,51,1778
+27-01-2023,579135,Goldman Inc,screwdriver,37,539
+28-03-2023,823456,B&C Harper,screwdriver,2,854
+26-06-2023,456789,Goldman Inc,saw,95,3592
+21-03-2023,135792,Goldman Inc,chisel,11,1677
+20-02-2023,823456,Doit2U,saw,3,2996
+23-02-2023,456789,Goldman Inc,hammer,83,2977
+17-02-2023,654321,Doit2U,chisel,63,4029
+30-07-2023,579135,Doit2U,saw,60,31
+16-11-2023,823456,Megalito,saw,56,2689
+16-12-2023,456789,B&C Harper,hammer,97,3160
+18-01-2023,456789,Construction Depot,trowel,69,1512
+29-03-2023,135792,Megalito,saw,9,562
+07-04-2023,579135,Doit2U,hammer,66,1124
+23-10-2023,579135,Materials4u,chisel,87,3441
+21-09-2023,823456,Doit2U,trowel,70,3887
+11-09-2023,456789,Megalito,screwdriver,80,744
+25-02-2023,135792,Doit2U,wrench,44,680
+02-11-2023,456789,Goldman Inc,chisel,94,1103
+23-04-2023,823456,B&C Harper,hammer,50,1822
+25-09-2023,987654,Doit2U,chisel,21,1209
+19-02-2023,135792,Doit2U,wrench,56,1312
+06-01-2023,987654,Doit2U,chisel,88,2435
+26-06-2023,823456,B&C Harper,screwdriver,5,1966
+30-11-2023,987654,Construction Depot,chisel,81,4000
+02-03-2023,135792,Goldman Inc,chisel,18,3624
+12-10-2023,823456,Megalito,hammer,81,626
+24-09-2023,654321,B&C Harper,chisel,23,2347
+26-03-2023,456789,Megalito,saw,59,2714
+09-06-2023,456789,Goldman Inc,chisel,86,120
+13-12-2023,246813,B&C Harper,screwdriver,73,1865
+11-07-2023,654321,Construction Depot,saw,79,1437
+25-04-2023,456789,Doit2U,wrench,40,2887
+29-09-2023,987654,Megalito,screwdriver,40,885
+15-03-2023,987654,B&C Harper,saw,74,3364
+29-11-2023,654321,Doit2U,saw,84,3330
+26-06-2023,246813,Construction Depot,screwdriver,58,1789
+29-01-2023,135792,Doit2U,tape measure,90,3367
+09-03-2023,135792,Materials4u,saw,20,3244
+05-08-2023,456789,B&C Harper,saw,93,865
+07-11-2023,135792,Construction Depot,chisel,54,851
+21-07-2023,987654,Megalito,chisel,27,620
+01-04-2023,654321,Megalito,saw,27,3216
+22-05-2023,246813,Materials4u,screwdriver,81,365
+27-02-2023,135792,Megalito,saw,55,2589
+24-04-2023,456789,Megalito,saw,99,2747
+31-10-2023,654321,Goldman Inc,saw,23,304
+26-11-2023,246813,Construction Depot,wrench,40,1987
+12-07-2023,579135,Doit2U,level,46,2760
+13-10-2023,246813,B&C Harper,screwdriver,97,3159
+09-09-2023,135792,Goldman Inc,screwdriver,85,1200
+10-11-2023,823456,Goldman Inc,trowel,47,3
+12-08-2023,579135,Megalito,chisel,44,791
+12-09-2023,246813,Goldman Inc,screwdriver,39,57
+06-02-2023,987654,Megalito,saw,67,3204
+05-05-2023,246813,Construction Depot,screwdriver,88,3639
+25-12-2023,456789,Construction Depot,chisel,67,3925
+10-06-2023,579135,Doit2U,tape measure,63,3991
+03-09-2023,246813,Goldman Inc,chisel,85,1898
+20-06-2023,654321,Materials4u,screwdriver,31,798
+24-05-2023,135792,Construction Depot,chisel,23,604
+27-10-2023,579135,B&C Harper,screwdriver,25,2079
+25-12-2023,246813,Doit2U,saw,13,3685
+03-11-2023,987654,B&C Harper,screwdriver,96,250
+14-02-2023,246813,B&C Harper,drill,46,2311
+08-11-2023,654321,Materials4u,trowel,87,783
+11-09-2023,823456,Materials4u,tape measure,99,2540
+14-10-2023,135792,Construction Depot,chisel,37,209
+15-02-2023,135792,Megalito,saw,53,3002
+23-07-2023,135792,Materials4u,level,56,1170
+10-05-2023,135792,Materials4u,saw,26,3314
+30-04-2023,456789,B&C Harper,saw,54,3932
+27-01-2023,823456,Doit2U,screwdriver,25,2942
+03-06-2023,246813,Construction Depot,chisel,84,433
+19-06-2023,987654,Materials4u,level,55,3917
+18-10-2023,246813,Doit2U,trowel,29,3155
+02-10-2023,823456,Megalito,pliers,76,1720
+08-07-2023,987654,B&C Harper,level,40,3115
+29-04-2023,987654,Goldman Inc,chisel,44,3507
+18-10-2023,654321,Materials4u,trowel,35,155
+14-02-2023,987654,Doit2U,pliers,5,183
+05-09-2023,246813,Doit2U,drill,44,3848
+25-01-2023,579135,Construction Depot,hammer,11,2113
+11-01-2023,456789,Construction Depot,drill,70,1209
+14-12-2023,654321,Megalito,screwdriver,56,4002
+16-12-2023,246813,Construction Depot,screwdriver,77,1788
+28-05-2023,456789,Goldman Inc,level,71,1567
+22-06-2023,246813,Doit2U,saw,26,626
+04-09-2023,135792,Construction Depot,screwdriver,93,1481
+11-03-2023,579135,Materials4u,saw,97,2165
+20-05-2023,654321,Doit2U,chisel,47,3838
+13-03-2023,823456,Goldman Inc,screwdriver,36,2590
+20-02-2023,654321,Megalito,saw,98,3969
+17-09-2023,579135,Megalito,saw,79,190
+27-04-2023,456789,Goldman Inc,chisel,87,3122
+23-05-2023,246813,Doit2U,chisel,98,1696
+17-10-2023,456789,B&C Harper,screwdriver,51,4079
+15-02-2023,246813,B&C Harper,chisel,60,2062
+08-05-2023,579135,Megalito,hammer,52,317
+04-11-2023,135792,Construction Depot,screwdriver,98,3093
+07-02-2023,246813,Goldman Inc,chisel,43,1222
+13-04-2023,135792,B&C Harper,tape measure,69,2181
+17-12-2023,135792,Doit2U,chisel,29,2486
+24-01-2023,135792,Goldman Inc,screwdriver,84,2162
+04-10-2023,654321,Construction Depot,chisel,30,703
+10-12-2023,246813,Construction Depot,wrench,8,3565
+28-11-2023,135792,Goldman Inc,level,27,1412
+12-04-2023,823456,Doit2U,hammer,44,1383
+25-08-2023,579135,Goldman Inc,chisel,19,2242
+27-04-2023,456789,B&C Harper,trowel,76,280
+20-11-2023,823456,B&C Harper,wrench,89,1504
+20-04-2023,823456,Materials4u,level,18,3355
+19-11-2023,654321,Doit2U,screwdriver,22,1067
+18-12-2023,987654,Goldman Inc,pliers,99,3502
+07-10-2023,135792,Construction Depot,screwdriver,36,2776
+06-08-2023,246813,Construction Depot,trowel,38,1994
+20-12-2023,456789,B&C Harper,pliers,93,529
+25-09-2023,135792,Doit2U,wrench,78,827
+12-10-2023,987654,Doit2U,hammer,13,866
+25-06-2023,823456,Goldman Inc,screwdriver,18,3922
+07-02-2023,823456,Doit2U,screwdriver,37,3303
+14-01-2023,823456,Construction Depot,level,92,3666
+16-02-2023,135792,Doit2U,wrench,44,2495
+24-05-2023,456789,Goldman Inc,wrench,31,2386
+20-06-2023,135792,Doit2U,screwdriver,86,815
+17-03-2023,823456,Doit2U,hammer,2,173
+01-10-2023,987654,Goldman Inc,saw,52,3509
+26-05-2023,823456,Doit2U,saw,73,4050
+24-05-2023,246813,Megalito,tape measure,84,2716
+18-01-2023,987654,B&C Harper,saw,57,1721
+11-12-2023,987654,Goldman Inc,chisel,44,1298
+26-05-2023,987654,Construction Depot,screwdriver,30,3646
+24-05-2023,246813,B&C Harper,saw,62,3234
+30-04-2023,823456,Megalito,chisel,37,402
+19-06-2023,135792,Construction Depot,level,51,403
+13-07-2023,135792,Megalito,chisel,77,3833
+17-03-2023,456789,Doit2U,hammer,28,1437
+30-08-2023,987654,Megalito,chisel,64,661
+26-08-2023,823456,Doit2U,screwdriver,89,1511
+07-04-2023,135792,Construction Depot,trowel,99,3400
+11-08-2023,823456,Materials4u,screwdriver,91,234
+11-10-2023,654321,Materials4u,saw,21,175
+29-07-2023,456789,Goldman Inc,screwdriver,36,2813
+12-10-2023,579135,Construction Depot,level,45,2957
+17-07-2023,654321,Doit2U,screwdriver,37,2062
+06-08-2023,135792,Construction Depot,saw,18,1919
+04-12-2023,823456,Construction Depot,tape measure,74,2543
+29-05-2023,987654,Megalito,tape measure,45,3690
+02-01-2023,654321,Construction Depot,chisel,7,3489
+31-08-2023,823456,Goldman Inc,chisel,67,2403
+15-03-2023,579135,Construction Depot,saw,5,373
+05-02-2023,246813,Construction Depot,screwdriver,17,2489
+23-12-2023,823456,Materials4u,wrench,51,2325
+27-09-2023,987654,Doit2U,drill,4,969
+08-08-2023,654321,B&C Harper,chisel,46,236
+19-12-2023,654321,Doit2U,screwdriver,38,774
+04-05-2023,456789,Construction Depot,trowel,73,355
+02-10-2023,987654,Goldman Inc,chisel,72,80
+19-11-2023,579135,Construction Depot,trowel,3,1093
+16-02-2023,987654,Goldman Inc,tape measure,69,3146
+08-11-2023,654321,Doit2U,saw,19,1364
+02-02-2023,654321,Doit2U,chisel,77,3604
+26-08-2023,987654,Goldman Inc,level,99,588
+10-01-2023,246813,B&C Harper,saw,56,590
+15-04-2023,579135,Materials4u,level,38,1590
+21-05-2023,823456,B&C Harper,chisel,52,2632
+21-07-2023,654321,Megalito,wrench,41,52
+09-09-2023,246813,Goldman Inc,wrench,64,3761
+01-05-2023,135792,B&C Harper,chisel,69,2695
+22-04-2023,579135,Construction Depot,screwdriver,29,1899
+27-06-2023,135792,B&C Harper,saw,5,886
+08-11-2023,246813,Construction Depot,level,51,2338
+16-02-2023,246813,Materials4u,screwdriver,89,2480
+29-03-2023,456789,Construction Depot,saw,76,3251
+17-08-2023,987654,B&C Harper,screwdriver,91,2624
+01-07-2023,579135,B&C Harper,screwdriver,91,3101
+13-12-2023,135792,Megalito,screwdriver,78,129
+18-08-2023,456789,Megalito,chisel,54,2988
+02-02-2023,579135,Goldman Inc,chisel,57,1477
+11-08-2023,456789,Materials4u,hammer,71,2334
+10-06-2023,579135,Megalito,drill,18,2615
+16-12-2023,987654,Materials4u,screwdriver,97,171
+14-01-2023,579135,Materials4u,chisel,79,3703
+12-07-2023,456789,B&C Harper,screwdriver,75,918
+12-05-2023,987654,Doit2U,screwdriver,71,4026
+12-04-2023,135792,Construction Depot,tape measure,5,1153
+21-10-2023,579135,Goldman Inc,wrench,6,2049
+20-12-2023,654321,Goldman Inc,saw,87,371
+23-12-2023,135792,Megalito,trowel,61,837
+15-02-2023,654321,Goldman Inc,level,76,1883
+24-07-2023,654321,Construction Depot,trowel,99,1036
+30-10-2023,654321,Goldman Inc,wrench,24,2927
+17-10-2023,579135,Construction Depot,screwdriver,43,3330
+28-09-2023,579135,Megalito,drill,35,3576
+26-05-2023,246813,Construction Depot,screwdriver,23,84
+29-11-2023,654321,Goldman Inc,chisel,48,3802
+20-11-2023,654321,Megalito,saw,16,2916
+26-05-2023,823456,Doit2U,screwdriver,3,3882
+20-01-2023,823456,B&C Harper,screwdriver,37,90
+18-09-2023,987654,Doit2U,screwdriver,65,3510
+01-06-2023,579135,Doit2U,chisel,86,2665
+10-02-2023,987654,Megalito,trowel,94,1818
+16-08-2023,823456,Doit2U,saw,10,2173
+19-02-2023,579135,Goldman Inc,trowel,34,1663
+07-02-2023,246813,Construction Depot,drill,58,677
+03-10-2023,246813,Goldman Inc,saw,25,3124
+05-08-2023,823456,Goldman Inc,saw,54,3080
+24-07-2023,654321,Materials4u,wrench,15,2606
+11-12-2023,135792,Goldman Inc,wrench,37,3359
+14-05-2023,654321,Doit2U,wrench,22,3284
+24-12-2023,579135,Goldman Inc,chisel,77,2568
+09-09-2023,987654,Materials4u,saw,15,2212
+11-01-2023,654321,Doit2U,screwdriver,3,2128
+23-06-2023,823456,Doit2U,saw,34,276
+13-03-2023,654321,Doit2U,chisel,43,1408
+09-05-2023,823456,Goldman Inc,wrench,54,3683
+05-03-2023,135792,Goldman Inc,chisel,68,408
+08-07-2023,456789,Megalito,chisel,14,702
+27-10-2023,246813,Construction Depot,screwdriver,39,1427
+27-09-2023,456789,Construction Depot,drill,93,1002
+11-05-2023,579135,Megalito,pliers,53,2584
+01-04-2023,823456,Goldman Inc,hammer,86,3448
+18-02-2023,579135,Construction Depot,drill,27,2378
+20-12-2023,246813,Megalito,pliers,79,2380
+26-07-2023,987654,Megalito,tape measure,96,1663
+26-02-2023,246813,Construction Depot,hammer,77,3545
+15-12-2023,654321,Construction Depot,hammer,21,3876
+06-10-2023,579135,Goldman Inc,pliers,16,1754
+16-04-2023,987654,Goldman Inc,screwdriver,34,4068
+16-09-2023,135792,Construction Depot,screwdriver,1,761
+04-04-2023,579135,Doit2U,hammer,98,383
+02-12-2023,456789,Construction Depot,tape measure,18,1611
+24-09-2023,823456,Doit2U,tape measure,41,3880
+19-03-2023,456789,B&C Harper,chisel,77,816
+30-09-2023,246813,Doit2U,chisel,77,2113
+08-11-2023,456789,Megalito,saw,98,1557
+29-04-2023,246813,B&C Harper,screwdriver,5,601
+26-07-2023,456789,Goldman Inc,saw,99,2731
+01-04-2023,456789,Construction Depot,wrench,13,3326
+13-06-2023,823456,Goldman Inc,screwdriver,59,2916
+17-12-2023,654321,B&C Harper,saw,51,3816
+26-12-2023,987654,B&C Harper,saw,84,1247
+09-02-2023,823456,Construction Depot,chisel,88,3276
+18-12-2023,135792,B&C Harper,wrench,53,107
+09-02-2023,456789,Doit2U,screwdriver,80,3396
+17-11-2023,654321,B&C Harper,chisel,93,954
+16-02-2023,987654,Construction Depot,screwdriver,32,3981
+02-10-2023,579135,Construction Depot,level,55,3733
+10-01-2023,456789,Construction Depot,saw,1,1988
+02-09-2023,823456,Doit2U,screwdriver,37,1464
+29-09-2023,135792,Doit2U,chisel,80,2322
+16-05-2023,246813,B&C Harper,chisel,36,2234
+15-02-2023,135792,Goldman Inc,trowel,18,1873
+12-01-2023,246813,Megalito,trowel,79,1204
+21-10-2023,135792,B&C Harper,trowel,80,328
+17-03-2023,135792,B&C Harper,screwdriver,61,273
+19-04-2023,135792,B&C Harper,pliers,27,99
+15-12-2023,654321,Materials4u,chisel,26,1255
+23-06-2023,654321,Doit2U,chisel,30,3324
+19-12-2023,579135,Construction Depot,drill,99,2677
+11-07-2023,823456,Construction Depot,trowel,100,1184
+10-04-2023,135792,Goldman Inc,trowel,59,3692
+10-12-2023,246813,B&C Harper,level,96,2647
+04-12-2023,823456,Doit2U,saw,52,4020
+22-08-2023,823456,Goldman Inc,level,14,3781
+07-05-2023,456789,B&C Harper,wrench,42,4018
+15-07-2023,579135,Construction Depot,drill,16,3350
+23-06-2023,246813,Materials4u,saw,7,71
+15-12-2023,579135,B&C Harper,pliers,61,408
+11-05-2023,823456,Construction Depot,pliers,5,1531
+19-01-2023,246813,Doit2U,pliers,32,3788
+03-02-2023,246813,B&C Harper,saw,23,592
+02-07-2023,579135,B&C Harper,pliers,46,3501
+16-07-2023,135792,Goldman Inc,chisel,19,66
+27-11-2023,579135,Megalito,trowel,17,804
+03-10-2023,456789,B&C Harper,trowel,73,3064
+06-01-2023,987654,Construction Depot,trowel,48,3233
+13-03-2023,135792,Megalito,saw,7,2298
+05-05-2023,823456,Goldman Inc,trowel,25,1935
+11-09-2023,823456,Goldman Inc,chisel,41,1903
+15-06-2023,579135,B&C Harper,screwdriver,78,2320
+22-03-2023,987654,B&C Harper,screwdriver,14,3670
+25-09-2023,246813,Materials4u,screwdriver,27,3200
+28-11-2023,823456,Construction Depot,chisel,21,2665
+02-06-2023,135792,Doit2U,chisel,100,3712
+15-05-2023,456789,Materials4u,tape measure,100,2687
+13-12-2023,456789,Goldman Inc,screwdriver,2,2896
+07-02-2023,987654,B&C Harper,chisel,21,254
+29-04-2023,456789,B&C Harper,drill,34,3165
+01-09-2023,456789,Materials4u,screwdriver,80,3504
+18-08-2023,579135,Megalito,screwdriver,39,1618
+08-11-2023,135792,Materials4u,screwdriver,55,3184
+11-05-2023,654321,Megalito,screwdriver,71,12
+29-11-2023,654321,Goldman Inc,trowel,37,1149
+30-03-2023,135792,Megalito,chisel,23,281
+08-11-2023,456789,B&C Harper,trowel,10,2540
+01-04-2023,135792,Construction Depot,screwdriver,69,2818
+03-05-2023,987654,B&C Harper,pliers,2,485
+20-02-2023,456789,Goldman Inc,chisel,90,2259
+21-04-2023,579135,Megalito,pliers,60,1673
+13-04-2023,823456,Goldman Inc,trowel,23,3723
+09-01-2023,987654,Materials4u,wrench,22,280
+22-11-2023,135792,Goldman Inc,chisel,64,820
+17-06-2023,823456,Doit2U,pliers,79,374
+24-10-2023,456789,B&C Harper,saw,32,137
+18-07-2023,579135,B&C Harper,drill,4,509
+23-11-2023,456789,Materials4u,hammer,60,2407
+19-08-2023,579135,Materials4u,trowel,97,1778
+06-04-2023,987654,Doit2U,screwdriver,99,2960
+07-11-2023,579135,Materials4u,saw,27,3334
+05-11-2023,987654,Megalito,hammer,19,1390
+18-07-2023,987654,Goldman Inc,trowel,69,1725
+08-11-2023,246813,Construction Depot,screwdriver,33,1503
+01-10-2023,246813,Megalito,pliers,89,266
+31-03-2023,579135,Megalito,trowel,67,1425
+10-07-2023,987654,B&C Harper,saw,56,3852
+12-03-2023,987654,Goldman Inc,saw,56,3106
+29-03-2023,987654,Materials4u,trowel,79,2714
+08-11-2023,246813,Goldman Inc,saw,15,2026
+16-10-2023,654321,Doit2U,screwdriver,16,2925
+05-03-2023,579135,Megalito,screwdriver,94,43
+23-06-2023,579135,Doit2U,wrench,8,3996
+06-12-2023,579135,Construction Depot,screwdriver,12,1729
+03-08-2023,579135,Megalito,screwdriver,50,2185
+27-01-2023,246813,Goldman Inc,screwdriver,16,356
+13-05-2023,135792,Doit2U,screwdriver,39,2538
+30-01-2023,579135,Construction Depot,drill,42,776
+01-04-2023,579135,B&C Harper,pliers,4,3321
+27-01-2023,246813,Doit2U,screwdriver,29,3389
+11-01-2023,823456,Doit2U,hammer,1,819
+11-01-2023,579135,Goldman Inc,hammer,64,340
+13-01-2023,823456,Doit2U,pliers,64,1947
+07-09-2023,135792,Doit2U,wrench,26,1067
+24-09-2023,135792,Materials4u,screwdriver,88,495
+10-11-2023,456789,B&C Harper,chisel,49,2381
+08-11-2023,135792,Materials4u,tape measure,62,87
+30-05-2023,654321,Goldman Inc,pliers,70,2807
+07-02-2023,246813,B&C Harper,screwdriver,39,2698
+09-07-2023,823456,Doit2U,saw,29,749
+11-04-2023,654321,Megalito,chisel,54,113
+23-05-2023,823456,Doit2U,saw,23,3225
+07-11-2023,246813,Doit2U,saw,84,2578
+17-05-2023,579135,Materials4u,screwdriver,53,1942
+31-01-2023,456789,Megalito,drill,13,2959
+22-10-2023,823456,Megalito,saw,12,2705
+19-02-2023,135792,Construction Depot,trowel,55,3411
+11-10-2023,135792,Materials4u,screwdriver,64,2457
+07-04-2023,654321,Goldman Inc,hammer,91,67
+30-10-2023,987654,Construction Depot,screwdriver,76,3124
+26-08-2023,654321,Doit2U,saw,9,3112
+23-03-2023,579135,Construction Depot,wrench,29,3197
+03-03-2023,654321,Doit2U,pliers,68,3637
+01-03-2023,456789,B&C Harper,saw,66,1973
+17-03-2023,246813,Megalito,screwdriver,48,2146
+20-01-2023,456789,Goldman Inc,level,13,4022
+20-01-2023,823456,Megalito,hammer,4,2088
+27-05-2023,823456,Goldman Inc,saw,100,3514
+17-01-2023,456789,Construction Depot,chisel,60,1969
+17-08-2023,246813,Goldman Inc,screwdriver,59,387
+21-09-2023,246813,Doit2U,screwdriver,55,2210
+04-11-2023,456789,Goldman Inc,screwdriver,14,3398
+20-10-2023,654321,Doit2U,screwdriver,81,958
+10-11-2023,987654,Megalito,screwdriver,36,3877
+24-12-2023,246813,B&C Harper,trowel,80,4079
+12-03-2023,579135,B&C Harper,screwdriver,6,1754
+20-09-2023,654321,B&C Harper,screwdriver,57,3683
+17-07-2023,654321,B&C Harper,screwdriver,59,2025
+03-07-2023,456789,Goldman Inc,chisel,50,1342
+11-01-2023,823456,Megalito,saw,8,1182
+22-04-2023,823456,Materials4u,wrench,94,3673
+23-12-2023,654321,Megalito,tape measure,5,1401
+07-12-2023,246813,Goldman Inc,screwdriver,82,2201
+13-11-2023,456789,B&C Harper,chisel,89,3639
+18-12-2023,456789,Megalito,trowel,92,859
+19-11-2023,654321,Construction Depot,screwdriver,50,613
+05-12-2023,246813,Materials4u,screwdriver,2,566
+19-12-2023,579135,B&C Harper,wrench,60,2628
+12-06-2023,579135,Construction Depot,screwdriver,52,729
+17-09-2023,654321,Doit2U,screwdriver,41,437
+26-07-2023,654321,B&C Harper,saw,98,1165
+03-01-2023,246813,Materials4u,chisel,30,581
+06-12-2023,987654,Megalito,screwdriver,30,1250
+04-12-2023,456789,Materials4u,screwdriver,86,2842
+23-05-2023,579135,Materials4u,screwdriver,12,2192
+15-12-2023,579135,B&C Harper,saw,35,3498
+08-05-2023,823456,B&C Harper,tape measure,70,114
+21-01-2023,579135,Doit2U,trowel,31,1527
+16-09-2023,135792,Materials4u,level,72,1660
+26-11-2023,579135,Goldman Inc,trowel,72,515
+14-02-2023,987654,Doit2U,chisel,26,1573
