@@ -34,7 +34,7 @@ with st.sidebar:
 agent = create_csv_agent(
     llm=llm,
     path=path,
-    verbose=False,
+    verbose=True,
     agent_type=AgentType.OPENAI_FUNCTIONS
 )
 
