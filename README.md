@@ -1,5 +1,7 @@
 # Dataframe Chatbot Streamlit
 
+![Screen Shoot](screenshoot.png)
+
 A Streamlit-based application that enables users to interactively query and explore data from CSV files through a conversational AI interface. Utilizing the power of language models, this application provides an intuitive way for users to ask questions and receive insights about their data without needing to write complex queries or code.
 
 ## Features
